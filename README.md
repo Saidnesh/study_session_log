@@ -42,7 +42,7 @@ lib/
 
 ## How to run
 1. Install Flutter and set up an Android emulator or device
-2. `git clone [repo link]`
+2. `git clone [https://github.com/Saidnesh/study_session_log.git]`
 3. `flutter pub get`
 4. `flutter run`
 
