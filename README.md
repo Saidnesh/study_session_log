@@ -3,8 +3,8 @@
 A Flutter student-life app for logging study sessions, with local SQLite storage.
 Built for STTPK2143 App Programming, Assignment 1.
 
-Author: Sai Dhenesh [309772] [Group A]
-Demo video: [https://youtu.be/SO3bj95y8U8?si=GNkepItNw29zBJto]
+**Author:** Sai Dhenesh [309772] [Group A]
+**Demo video:** [https://youtu.be/SO3bj95y8U8?si=GNkepItNw29zBJto]
 
 ## Purpose
 Students record what they studied, for how long, and optional notes, then review
