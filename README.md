@@ -36,9 +36,11 @@ lib/
 1. `flutter create study_session_log`
 2. Replace its `lib/` folder and `pubspec.yaml` with the ones from this project; delete `test/widget_test.dart`.
 3. `flutter pub get`
-4. `flutter run` (Android emulator or device)
+4. `flutter run` (Android emulator)
 
 ## Credits
-- sqflite and path packages (pub.dev)
+- Flutter
+- Codex and Claude
+- Sqflite(Local SQLite database and path database file location)
 - Material icons (Flutter)
-- (Add any tutorials / AI tool use you relied on here, per course rules.)
+- Youtube
